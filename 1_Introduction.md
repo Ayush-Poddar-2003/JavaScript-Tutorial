@@ -47,3 +47,15 @@ Inside sources section, go to Snippets and new snippet
 It will come like an IDE where you can write up your codes  
 OR  
 Use NodeJs
+
+---
+
+# <center> JS Execution
+Everything in js happens inside execution context.
+
+EXECUTION CONTEXT ?  
+![alt text](image.png)
+
+> Js is synchronous single-threaded language
+
+![alt text](image-1.png)
